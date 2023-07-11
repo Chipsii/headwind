@@ -1,6 +1,6 @@
 import Channelbar from './components/ChannelBar';
 import ContentContainer from './components/ContentContainer';
-import SideBar from './components/SideBar';
+import SideBar from './SideBar';
 
 function App() {
   return (
